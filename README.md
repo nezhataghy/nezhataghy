@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nezha Aicha</h1>
 <h3 align="center">Energy engineer from Mauritania diving into software engineering at ALX</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nezhataghy&label=Profile%20views&color=0e75b6&style=flat" alt="nezhataghy" /> </p>
+[![committers.top badge](https://user-badge.committers.top/mauritania_public/nezhataghy.svg)](https://user-badge.committers.top/mauritania_public/nezhataghy)
 
 <!--
 **nezhataghy/nezhataghy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
